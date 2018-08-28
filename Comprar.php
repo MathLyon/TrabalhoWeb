@@ -30,7 +30,7 @@
     </div>
 
     <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-      <h1 class="display-4">Pricing</h1>
+      <h1 class="display-4">Produtos</h1>
       <p class="lead">Quickly build an effective pricing table for your potential customers with this Bootstrap example. It's built with default Bootstrap components and utilities with little customization.</p>
     </div>
 
@@ -48,7 +48,7 @@
               <li>Email support</li>
               <li>Help center access</li>
             </ul>
-            <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+            <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
           </div>
         </div>
         <div class="card mb-4 shadow-sm">
@@ -63,7 +63,7 @@
               <li>Priority email support</li>
               <li>Help center access</li>
             </ul>
-            <button type="button" class="btn btn-lg btn-block btn-outline-primary">Get started</button>
+            <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
           </div>
         </div>
         <div class="card mb-4 shadow-sm">
@@ -78,7 +78,7 @@
               <li>Phone and email support</li>
               <li>Help center access</li>
             </ul>
-            <button type="button" class="btn btn-lg btn-block btn-outline-primary">Contact us</button>
+            <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
           </div>
         </div>
       </div>
@@ -96,7 +96,7 @@
                 <li>Email support</li>
                 <li>Help center access</li>
               </ul>
-              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
             </div>
           </div>
           <div class="card mb-4 shadow-sm">
@@ -111,7 +111,7 @@
                 <li>Priority email support</li>
                 <li>Help center access</li>
               </ul>
-              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Get started</button>
+              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
             </div>
           </div>
           <div class="card mb-4 shadow-sm">
@@ -126,7 +126,7 @@
                 <li>Phone and email support</li>
                 <li>Help center access</li>
               </ul>
-              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Contact us</button>
+              <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
             </div>
           </div>
         </div>
@@ -144,7 +144,7 @@
                   <li>Email support</li>
                   <li>Help center access</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+                <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
               </div>
             </div>
             <div class="card mb-4 shadow-sm">
@@ -159,7 +159,7 @@
                   <li>Priority email support</li>
                   <li>Help center access</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-outline-primary">Get started</button>
+                <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
               </div>
             </div>
             <div class="card mb-4 shadow-sm">
@@ -174,7 +174,7 @@
                   <li>Phone and email support</li>
                   <li>Help center access</li>
                 </ul>
-                <button type="button" class="btn btn-lg btn-block btn-outline-primary">Contact us</button>
+                <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
               </div>
             </div>
           </div>
@@ -192,7 +192,7 @@
                     <li>Email support</li>
                     <li>Help center access</li>
                   </ul>
-                  <button type="button" class="btn btn-lg btn-block btn-outline-primary">Sign up for free</button>
+                  <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
                 </div>
               </div>
               <div class="card mb-4 shadow-sm">
@@ -207,7 +207,7 @@
                     <li>Priority email support</li>
                     <li>Help center access</li>
                   </ul>
-                  <button type="button" class="btn btn-lg btn-block btn-outline-primary">Get started</button>
+                  <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
                 </div>
               </div>
               <div class="card mb-4 shadow-sm">
@@ -222,7 +222,7 @@
                     <li>Phone and email support</li>
                     <li>Help center access</li>
                   </ul>
-                  <button type="button" class="btn btn-lg btn-block btn-outline-primary">Contact us</button>
+                  <button type="button" class="btn btn-lg btn-block btn-outline-primary">Comprar</button>
                 </div>
               </div>
             </div>
